@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ioannisiacobirei00reisuoft_0041.png"; bbox 0 0 1701 2990; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 175 801 1391 1026">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 175 801 1391 1026">
+     <span class='ocr_line' id='line_1_1' title="bbox 762 801 811 870; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 762 801 811 870; x_wconf 94' lang='lat' dir='ltr'><strong>I.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 175 966 1391 1026; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 175 966 591 1026; x_wconf 85' lang='lat' dir='ltr'>IOANNIS</span> <span class='ocrx_word' id='word_1_3' title='bbox 655 967 987 1026; x_wconf 88' lang='lat' dir='ltr'>IACOBI</span> <span class='ocrx_word' id='word_1_4' title='bbox 1053 966 1391 1026; x_wconf 84' lang='lat' dir='ltr'>REISKE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 275 1092 1286 1189">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 275 1092 1286 1189">
+     <span class='ocr_line' id='line_1_3' title="bbox 275 1092 1286 1121; baseline 0.001 -2"><span class='ocrx_word' id='word_1_5' title='bbox 275 1092 1286 1121; x_wconf 72' lang='lat'><strong>..........................</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 601 1160 953 1189; baseline -0.003 -1"><span class='ocrx_word' id='word_1_6' title='bbox 601 1160 953 1189; x_wconf 85' lang='lat' dir='ltr'><strong>PPPPPPPPPP</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 101 1277 1462 1369">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 101 1277 1462 1369">
+     <span class='ocr_line' id='line_1_5' title="bbox 101 1277 1462 1369; baseline 0.003 -4"><span class='ocrx_word' id='word_1_7' title='bbox 101 1277 774 1366; x_wconf 82' lang='lat' dir='ltr'>MISCELLAN</span> <span class='ocrx_word' id='word_1_8' title='bbox 779 1279 940 1367; x_wconf 87' lang='lat' dir='ltr'><strong>EA</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 993 1279 1462 1369; x_wconf 85' lang='lat' dir='ltr'>MEDICA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 741 1466 833 1510">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 741 1466 833 1510">
+     <span class='ocr_line' id='line_1_6' title="bbox 741 1466 833 1510; baseline -0.011 0"><span class='ocrx_word' id='word_1_10' title='bbox 741 1466 833 1510; x_wconf 91' lang='lat' dir='ltr'><strong>EX</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 238 1585 1361 1672">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 238 1585 1361 1672">
+     <span class='ocr_line' id='line_1_7' title="bbox 238 1585 1361 1672; baseline -0.002 -1"><span class='ocrx_word' id='word_1_11' title='bbox 238 1600 638 1672; x_wconf 79' lang='lat' dir='ltr'>ARABVM</span> <span class='ocrx_word' id='word_1_12' title='bbox 692 1597 1322 1672; x_wconf 82' lang='lat' dir='ltr'><strong>MONIMENTIS.</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1354 1585 1361 1596; x_wconf 53' lang='lat'>¹</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ioannisiacobirei00reisuoft_0193.png"; bbox 0 0 1701 2990; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 609 647 1406 758">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 609 647 1406 758">
+     <span class='ocr_line' id='line_1_1' title="bbox 609 647 1273 700; baseline -0.002 -11"><span class='ocrx_word' id='word_1_1' title='bbox 609 648 830 700; x_wconf 66' lang='lat' dir='ltr'><strong>Reiske,</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 877 647 1075 690; x_wconf 77' lang='lat' dir='ltr'>Johann</span> <span class='ocrx_word' id='word_1_3' title='bbox 1109 647 1273 689; x_wconf 80' lang='lat' dir='ltr'>Jacob</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 713 713 1406 758; baseline -0.003 -1"><span class='ocrx_word' id='word_1_4' title='bbox 713 715 938 758; x_wconf 67' lang='lat' dir='ltr'>Ioannis</span> <span class='ocrx_word' id='word_1_5' title='bbox 980 714 1173 757; x_wconf 65' lang='lat' dir='ltr'>Iacobi</span> <span class='ocrx_word' id='word_1_6' title='bbox 1209 713 1406 756; x_wconf 63' lang='lat' dir='ltr'>Reiske</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 612 1465 1329 1514">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 612 1465 1329 1514">
+     <span class='ocr_line' id='line_1_3' title="bbox 612 1465 1329 1514; baseline 0.001 -3"><span class='ocrx_word' id='word_1_7' title='bbox 612 1465 795 1512; x_wconf 83' lang='grc' dir='ltr'>ΡΙ.ΕΑ5Ε</span> <span class='ocrx_word' id='word_1_8' title='bbox 829 1466 914 1513; x_wconf 86' lang='lat' dir='ltr'>Do</span> <span class='ocrx_word' id='word_1_9' title='bbox 948 1467 1069 1513; x_wconf 89' lang='grc' dir='ltr'>ΝΟΤ</span> <span class='ocrx_word' id='word_1_10' title='bbox 1103 1467 1329 1514; x_wconf 82' lang='lat' dir='ltr'><strong>REMOVE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 445 1565 1495 1636">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 445 1565 1495 1636">
+     <span class='ocr_line' id='line_1_4' title="bbox 445 1565 1495 1636; baseline 0.001 -24"><span class='ocrx_word' id='word_1_11' title='bbox 445 1566 626 1613; x_wconf 76' lang='lat' dir='ltr'><strong>CARDS</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 659 1567 739 1636; x_wconf 65' lang='grc' dir='ltr'>ΟΕ</span> <span class='ocrx_word' id='word_1_13' title='bbox 774 1565 909 1613; x_wconf 83' lang='grc' dir='ltr'>51.ΙΡ5</span> <span class='ocrx_word' id='word_1_14' title='bbox 945 1567 1102 1613; x_wconf 73' lang='lat' dir='ltr'>FROM</span> <span class='ocrx_word' id='word_1_15' title='bbox 1134 1567 1248 1614; x_wconf 77' lang='grc' dir='ltr'>ΤΗΙδ</span> <span class='ocrx_word' id='word_1_16' title='bbox 1282 1567 1495 1615; x_wconf 77' lang='grc' dir='ltr'>ΡΟΕΚΕΤ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 485 1757 1454 1804">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 485 1757 1454 1804">
+     <span class='ocr_line' id='line_1_5' title="bbox 485 1757 1454 1804; baseline 0.001 -1"><span class='ocrx_word' id='word_1_17' title='bbox 485 1757 790 1804; x_wconf 69' lang='grc' dir='ltr'>υΝΝΕΕδΙΤΥ</span> <span class='ocrx_word' id='word_1_18' title='bbox 821 1757 898 1804; x_wconf 75' lang='grc' dir='ltr'>ΟΡ</span> <span class='ocrx_word' id='word_1_19' title='bbox 930 1757 1210 1804; x_wconf 78' lang='lat' dir='ltr'>TORONTO</span> <span class='ocrx_word' id='word_1_20' title='bbox 1246 1759 1454 1804; x_wconf 77' lang='lat' dir='ltr'>UBRARY</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1701 2990">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1701 2990">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1701 2990; baseline 0 0"><span class='ocrx_word' id='word_1_21' title='bbox 0 0 1701 2990; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
